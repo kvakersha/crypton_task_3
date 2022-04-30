@@ -1,0 +1,11 @@
+{
+  "name": "2",
+  "description": "2",
+  "image": "ipfs://bafkreihmb2nu2xfyqj6aovksdjaaddtvglnxkws53wx4wvo7buw4bbzmay",
+  "attributes": [
+    {
+        "trait_type": "Number", 
+        "value": "2"
+      } 
+  ]
+}
